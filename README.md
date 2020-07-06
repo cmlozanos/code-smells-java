@@ -5,7 +5,9 @@ En este repositorio podrás encontrar los diferentes tipos de codesmells y sus s
 Los code smells estan separados en distintos niveles:
 
 1.- Aplicacion (src\main\java\cmls\spring\codesmells\level\application)
+
 2.- Clases (src\main\java\cmls\spring\codesmells\level\classes)
+
 3.- Métodos (src\main\java\cmls\spring\codesmells\level\method)
 
 Dentro de cada nivel, podemos encontrar los codesmells relativos a cada nivel.
